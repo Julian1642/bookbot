@@ -1,0 +1,7 @@
+============ BOOKBOT ============
+Analyzing book found at {archivo}
+----------- Word Count ----------
+Found {num_words} total words
+--------- Character Count -------
+{lista_ordenada}
+============= END ===============
